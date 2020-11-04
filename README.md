@@ -1,14 +1,15 @@
 # Install and configure Apache Airflow on Ubuntu Server
 
-![Apache Airflow logo](docs/images/apache_airflow_logo.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Ubuntu logo](docs/images/ubuntu_logo.png)
-
 [Apache Airflow](https://airflow.apache.org/) is one of the most widely used data orchestration and workflow management tools.
 This open-source tool was started in Airbnb in October 2014 and written in Python.
 Airflow allows data engineers to orchestrate ETL/ELT data pipelines by authoring, scheduling, logging, 
-monitoring and troubleshooting DAG runs.
+monitoring and troubleshooting DAG runs. If you want to see an example using Apache Airflow DAG to orchestrate a data 
+ingestion (ELT) process, [click here](https://github.com/ebubeabara/data-integration-with-apache-airflow).
 
 This how-to guide will walk you through the sequential steps required to install and configure Apache Airflow 
 on Ubuntu 20.04 server.
+
+![Apache Airflow logo](docs/images/apache_airflow_logo.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Ubuntu logo](docs/images/ubuntu_logo.png)
 
 ### Prerequisite:
 
