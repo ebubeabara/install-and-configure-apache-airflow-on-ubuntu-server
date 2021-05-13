@@ -207,8 +207,4 @@ Following these instruction should take about 30 minutes.
     `cat $AIRFLOW_HOME/airflow-webserver.pid` gets AIRFLOW-PROCESS-ID
     
     `sudo kill -9 <AIRFLOW-PROCESS-ID>` kill Airflow process using printed AIRFLOW-PROCESS-ID
-
-![Glue Reply logo](docs/images/glue_reply_logo.png)
-
-by **Ebube Abara**
     
